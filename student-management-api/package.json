@@ -1,0 +1,16 @@
+{
+  "name": "student-management-rest-api",
+  "version": "1.0.0",
+  "description": "Lab Assignment 2 - Student Management REST API (Web Dev III, Unit 2)",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js",
+    "test": "node test/api.test.js"
+  },
+  "author": "Naman Joshi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
