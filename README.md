@@ -1,6 +1,6 @@
 # Student Management REST API
 **Lab Assignment 2 | Web Dev III (Node.js & Express) | Unit 2**
-**Author:** VR Adikrishna
+**Author:** Vedansh Rawat
 
 A RESTful API built with Node.js and Express.js to add, view, update and delete student records.
 Uses an in-memory array only (no database, no Mongoose).
